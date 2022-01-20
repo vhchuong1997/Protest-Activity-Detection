@@ -44,7 +44,7 @@ You can download the weights from this [Google Drive link](https://www.dropbox.c
 
 
 
-#### Performance
+#### Performance on the best instance model: EfficientNet B2
 
 <!-- |Fields  |Protest|Sign  |Photo|Fire |Law Enf.|Children|Group>20|Group>100|Flag |Night|Shout|
 |--------|-------|------|-----|-----|--------|--------|--------|---------|-----|-----|-----|
