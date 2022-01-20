@@ -67,7 +67,7 @@ You can download the weights from this [Google Drive link](https://www.dropbox.c
 |-------|------|-----|
 |![][night-roc]|![][shouting-roc]|![][violence-scatter]|
 
-[protest-roc]: https://raw.githubusercontent.com/vhchuong1997/Protest-Activity-Detection/master/files/protest_EffNetB1_2_drop25_adam_0.0001.png
+[protest-roc]: ./files/protest_EffNetB1_2_drop25_adam_0.0001.png
 [sign-roc]: https://raw.githubusercontent.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/sign_EffNetB1_2_drop25_adam_0.0001.png
 [photo-roc]: https://raw.githubusercontent.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/photo_EffNetB1_2_drop25_adam_0.0001.png
 [fire-roc]: https://raw.githubusercontent.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/fire_EffNetB1_2_drop25_adam_0.0001.png
