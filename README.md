@@ -67,15 +67,15 @@ You can download the weights from this [Google Drive link](https://www.dropbox.c
 |-------|------|-----|
 |![][night-roc]|![][shouting-roc]|![][violence-scatter]|
 
-[protest-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/protest_EffNetB1_2_drop25_adam_0.0001.png
-[sign-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/sign_EffNetB1_2_drop25_adam_0.0001.png
-[photo-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/photo_EffNetB1_2_drop25_adam_0.0001.png
-[fire-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/fire_EffNetB1_2_drop25_adam_0.0001.png
-[police-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/police_EffNetB1_2_drop25_adam_0.0001.png
-[children-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/children_EffNetB1_2_drop25_adam_0.0001.png
-[group_20-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/group_20_EffNetB1_2_drop25_adam_0.0001.png
-[group_100-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/group_100_EffNetB1_2_drop25_adam_0.0001.png
-[flag-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/flag_EffNetB1_2_drop25_adam_0.0001.png
-[night-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/night_EffNetB1_2_drop25_adam_0.0001.png
-[shouting-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/shouting_EffNetB1_2_drop25_adam_0.0001.png
-[violence-scatter]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/violence_EffNetB1_2_drop25_adam_0.0001.png
+[protest-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/protest_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[sign-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/sign_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[photo-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/photo_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[fire-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/fire_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[police-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/police_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[children-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/children_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[group_20-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/group_20_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[group_100-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/group_100_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[flag-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/flag_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[night-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/night_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[shouting-roc]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/shouting_EffNetB1_2_drop25_adam_0.0001.png?raw=true
+[violence-scatter]: https://github.com/vhchuong1997/Protest-Activity-Detection/tree/master/files/violence_EffNetB1_2_drop25_adam_0.0001.png?raw=true
