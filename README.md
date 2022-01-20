@@ -67,15 +67,15 @@ You can download the weights from this [Google Drive link](https://www.dropbox.c
 |-------|------|-----|
 |![][night-roc]|![][shouting-roc]|![][violence-scatter]|
 
-[protest-roc]: ./files/protest_EffNetB1_2_drop25_adam_0.0001.png
-[sign-roc]: ./files/sign_EffNetB1_2_drop25_adam_0.0001.png
-[photo-roc]: ./files/photo_EffNetB1_2_drop25_adam_0.0001.png
-[fire-roc]: ./files/fire_EffNetB1_2_drop25_adam_0.0001.png
-[police-roc]: ./files/police_EffNetB1_2_drop25_adam_0.0001.png
-[children-roc]: ./files/children_EffNetB1_2_drop25_adam_0.0001.png
-[group_20-roc]: ./files/group_20_EffNetB1_2_drop25_adam_0.0001.png
-[group_100-roc]: ./files/group_100_EffNetB1_2_drop25_adam_0.0001.png
-[flag-roc]: ./files/flag_EffNetB1_2_drop25_adam_0.0001.png
-[night-roc]: ./files/night_EffNetB1_2_drop25_adam_0.0001.png
-[shouting-roc]: ./files/shouting_EffNetB1_2_drop25_adam_0.0001.png
-[violence-scatter]: ./files/violence_EffNetB1_2_drop25_adam_0.0001.png
+[protest-roc]: ./files/protest_EffNetB2_2_drop25_adam_0.0001.png
+[sign-roc]: ./files/sign_EffNetB2_2_drop25_adam_0.0001.png
+[photo-roc]: ./files/photo_EffNetB2_2_drop25_adam_0.0001.png
+[fire-roc]: ./files/fire_EffNetB2_2_drop25_adam_0.0001.png
+[police-roc]: ./files/police_EffNetB2_2_drop25_adam_0.0001.png
+[children-roc]: ./files/children_EffNetB2_2_drop25_adam_0.0001.png
+[group_20-roc]: ./files/group_20_EffNetB2_2_drop25_adam_0.0001.png
+[group_100-roc]: ./files/group_100_EffNetB2_2_drop25_adam_0.0001.png
+[flag-roc]: ./files/flag_EffNetB2_2_drop25_adam_0.0001.png
+[night-roc]: ./files/night_EffNetB2_2_drop25_adam_0.0001.png
+[shouting-roc]: ./files/shouting_EffNetB2_2_drop25_adam_0.0001.png
+[violence-scatter]: ./files/violence_EffNetB2_2_drop25_adam_0.0001.png
