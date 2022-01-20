@@ -1,5 +1,5 @@
 # Protest Activity Detection and Perceived Violence Estimation from Social Media Images
-Implementation of the model used in the paper **_Protest Activity Detection and Perceived Violence Estimation from Social Media Images_** (ACM Multimedia 2017) [\[arxiv\]](https://arxiv.org/abs/1709.06204) by [Donghyeon Won](dhwon.com), [Zachary C. Steinert-Threlkeld](https://zacharyst.com/), [Jungseock Joo](http://home.jsjoo.com/).
+This github covers a range of experiments of the task in the paper **_Protest Activity Detection and Perceived Violence Estimation from Social Media Images_** (ACM Multimedia 2017) [\[arxiv\]](https://arxiv.org/abs/1709.06204) by [Donghyeon Won](dhwon.com), [Zachary C. Steinert-Threlkeld](https://zacharyst.com/), [Jungseock Joo](http://home.jsjoo.com/).
 
 ![](https://raw.githubusercontent.com/wondonghyeon/protest-detection-violence-estimation/master/files/overview.png)
 
@@ -11,20 +11,14 @@ Implementation of the model used in the paper **_Protest Activity Detection and 
 
 ### Usage   
 #### Training  
-
-```bash
-python train.py --data_dir UCLA-protest/ --batch_size 32 --lr 0.002 --print_freq 100 --epochs 100 --cuda
-```
+To train our different models, please access file ```train.ipynb``` to run the bash codes inside
 
 #### Evaluation
-
-```bash
-python pred.py --img_dir path/to/some/image/directory/ --output_csvpath result.csv --model model_best.pth.tar --cuda
-```
+To obtain evaluation of our different models, please access file ```model-performance.ipynb``` to run the bash codes inside
 
 ### UCLA Protest Image Dataset   
 ![](https://raw.githubusercontent.com/wondonghyeon/protest-detection-violence-estimation/master/files/1-d.png)
-You will need to download our UCLA Protest Image Dataset to train the model. Please e-mail me if you want to download our dataset!
+You will need to download our UCLA Protest Image Dataset to train the model. Please e-mail the author at won.donghyeon@gmail.com  if you want to download the dataset!
 
 #### Dataset Statistics   
 \# of images: 40,764   
@@ -44,8 +38,9 @@ You will need to download our UCLA Protest Image Dataset to train the model. Ple
 ![](https://raw.githubusercontent.com/wondonghyeon/protest-detection-violence-estimation/master/files/violence_hist.png)
 
 ### Model
-#### Architecture   
-We fine-tuned ImageNet pretrained [ResNet50](https://arxiv.org/abs/1512.03385) to our data. You can download the model I trained from this [Dropbox link](https://www.dropbox.com/s/rxslj6x01otf62i/model_best.pth.tar?dl=0).
+#### Architectures 
+We fine-tuned ImageNet pretrained [EfficientNet](https://arxiv.org/abs/1905.11946) to our data. 
+You can download the weights from this [Google Drive link](https://www.dropbox.com/s/rxslj6x01otf62i/model_best.pth.tar?dl=0).
 
 
 
